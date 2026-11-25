@@ -1,6 +1,6 @@
 cask "closedloop-desktop" do
-  version "0.17.1098"
-  sha256 "696a118a7281585ffffed4a167d27199b91f405235a099bd70e789e82cda6283"
+  version "0.17.1101"
+  sha256 "29113058b47212954cb4b598ae1146dab935e514e42d48788468ce1af4b868e0"
 
   url "https://github.com/closedloop-ai/closedloop-ai/releases/download/desktop-v#{version}/Closedloop-#{version}-universal.dmg"
   name "Closedloop"
